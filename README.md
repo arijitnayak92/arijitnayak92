@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arijitnayak92
-- 👀 I’m interested in Full Stack Development ( React | Go lang | Postgres )
-- 🌱 I’m currently learning Go lang
+- 👀 I’m interested in Full Stack Development, Software  Development ( React | Go lang | Postgres )
+- 🌱 Have the best understanding of Go lang on professional level 
 - 💞️ I’m looking to collaborate on building new and unique things
 - 📫 Reach me through my mail id : arijitnayak92@gmail.com
 
